@@ -35,7 +35,6 @@ function evenOrOdd(number){
      }
     
     }
-console.log(number)
 /* 
 Write your explanation for Exercise #2 here
 
