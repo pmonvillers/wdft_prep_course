@@ -1,3 +1,25 @@
 h1{
     color:red;
 }
+
+p1 {
+    color: white;
+    background: grey;
+    border: 2px dotted white;
+    padding:10px 20px;
+    margin-bottom:30px; 
+    width: 200px;
+    float: left;    
+}
+
+p2 {
+    color: white;
+    background: grey;
+    border: 2px dotted white;
+    padding:10px 20px;
+    width: 200px;
+    clear: left;
+    float: left;
+    
+
+}
