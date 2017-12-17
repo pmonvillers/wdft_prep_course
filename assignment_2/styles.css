@@ -1,8 +1,10 @@
-h1{
+h1
+{
     color:red;
 }
 
-p1 {
+p1 
+{
     color: white;
     background: grey;
     border: 2px dotted white;
@@ -12,7 +14,8 @@ p1 {
     float: left;    
 }
 
-p2 {
+p2 
+{
     color: white;
     background: grey;
     border: 2px dotted white;
@@ -20,6 +23,17 @@ p2 {
     width: 200px;
     clear: left;
     float: left;
+    margin-bottom:30px; 
     
+}
 
+img
+{
+border: 10px solid gray;
+padding: 10px 10px;
+clear: left;
+float: left;
+width: 200px;
+background:rgb(43, 148,253);
+margin-bottom: 20px;
 }
